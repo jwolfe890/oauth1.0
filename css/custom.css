@@ -1,0 +1,19 @@
+.navbar {
+    background-color:#19aff5;
+}
+
+.ab {
+    width: auto;
+    color: white !important;
+    font-size: 15px;
+}
+
+.navbar-brand {
+    width: auto;
+    color: white !important;
+    font-size: 25px;
+}
+
+#result {
+    color: red;
+}
